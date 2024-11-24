@@ -1,0 +1,8 @@
+.missionPageContainer {
+  width: 100vw;
+  height: calc(100vh - 4rem);
+  display: flex;
+  padding: 2rem;
+  align-items: center;
+  justify-content: center;
+}
